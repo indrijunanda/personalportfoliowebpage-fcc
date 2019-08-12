@@ -2,13 +2,13 @@
 
 ## Responsive Web Design Project
 
-from **[Freecodecamp](https://www.freecodecamp.org/)**
+from **[Freecodecamp](https://www.freecodecamp.org/)** Responsive Web Design Curriculum
 
 hopefully this solution can help 😊
 
 -------------------
 
-**[DEMO](https://indrijunanda.github.io/tributepage-fcc/)** or check on **[Codepen](https://codepen.io/indrijunanda/pen/KOGQpw)**
+**[DEMO](https://indrijunanda.github.io/personalportfoliowebpage-fcc/)** or check on **[Codepen](https://codepen.io/indrijunanda/pen/KOGQpw)**
 
 -------------------
 
